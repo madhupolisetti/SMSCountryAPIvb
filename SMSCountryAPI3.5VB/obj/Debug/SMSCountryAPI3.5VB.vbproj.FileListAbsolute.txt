@@ -1,0 +1,77 @@
+D:\Sita\Clients\Sugandha\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3._5VB.Resources.resources
+D:\Sita\Clients\Sugandha\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.vbproj.GenerateResource.Cache
+D:\Sita\Clients\Sugandha\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.vbprojResolveAssemblyReference.cache
+D:\Sita\Clients\Sugandha\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.dll
+D:\Sita\Clients\Sugandha\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.pdb
+D:\Sita\Clients\Sugandha\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.xml
+D:\Sita\Clients\Sugandha\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\Newtonsoft.Json.dll
+D:\Sita\Clients\Sugandha\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\Newtonsoft.Json.xml
+D:\Sita\Clients\Sugandha\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.dll
+D:\Sita\Clients\Sugandha\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.xml
+D:\Sita\Clients\Sugandha\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.pdb
+D:\Navneet Projects\Sugandha\10thNov2016\BACKUP\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.dll
+D:\Navneet Projects\Sugandha\10thNov2016\BACKUP\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.pdb
+D:\Navneet Projects\Sugandha\10thNov2016\BACKUP\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.xml
+D:\Navneet Projects\Sugandha\10thNov2016\BACKUP\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\Newtonsoft.Json.dll
+D:\Navneet Projects\Sugandha\10thNov2016\BACKUP\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\Newtonsoft.Json.xml
+D:\Navneet Projects\Sugandha\10thNov2016\BACKUP\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.vbprojResolveAssemblyReference.cache
+D:\Navneet Projects\Sugandha\10thNov2016\BACKUP\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3._5VB.Resources.resources
+D:\Navneet Projects\Sugandha\10thNov2016\BACKUP\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.vbproj.GenerateResource.Cache
+D:\Navneet Projects\Sugandha\10thNov2016\BACKUP\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.dll
+D:\Navneet Projects\Sugandha\10thNov2016\BACKUP\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.xml
+D:\Navneet Projects\Sugandha\10thNov2016\BACKUP\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.pdb
+D:\Sita\Clients\Sugandha\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.dll
+D:\Sita\Clients\Sugandha\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.pdb
+D:\Sita\Clients\Sugandha\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.xml
+D:\Sita\Clients\Sugandha\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\Newtonsoft.Json.dll
+D:\Sita\Clients\Sugandha\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\Newtonsoft.Json.xml
+D:\Sita\Clients\Sugandha\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.vbprojResolveAssemblyReference.cache
+D:\Sita\Clients\Sugandha\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3._5VB.Resources.resources
+D:\Sita\Clients\Sugandha\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.vbproj.GenerateResource.Cache
+D:\Sita\Clients\Sugandha\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.dll
+D:\Sita\Clients\Sugandha\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.xml
+D:\Sita\Clients\Sugandha\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.pdb
+D:\Navneet Projects\Sugandha\17thNov2016\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.dll
+D:\Navneet Projects\Sugandha\17thNov2016\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.pdb
+D:\Navneet Projects\Sugandha\17thNov2016\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.xml
+D:\Navneet Projects\Sugandha\17thNov2016\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\Newtonsoft.Json.dll
+D:\Navneet Projects\Sugandha\17thNov2016\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\Newtonsoft.Json.xml
+D:\Navneet Projects\Sugandha\17thNov2016\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.vbprojResolveAssemblyReference.cache
+D:\Navneet Projects\Sugandha\17thNov2016\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3._5VB.Resources.resources
+D:\Navneet Projects\Sugandha\17thNov2016\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.vbproj.GenerateResource.Cache
+D:\Navneet Projects\Sugandha\17thNov2016\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.dll
+D:\Navneet Projects\Sugandha\17thNov2016\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.xml
+D:\Navneet Projects\Sugandha\17thNov2016\14 Nov 2016\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.pdb
+C:\Users\navneet\Desktop\ScreenShots for FixedErrors\SMSCountryApiVB.net-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.dll
+C:\Users\navneet\Desktop\ScreenShots for FixedErrors\SMSCountryApiVB.net-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.pdb
+C:\Users\navneet\Desktop\ScreenShots for FixedErrors\SMSCountryApiVB.net-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.xml
+C:\Users\navneet\Desktop\ScreenShots for FixedErrors\SMSCountryApiVB.net-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\navneet\Desktop\ScreenShots for FixedErrors\SMSCountryApiVB.net-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\navneet\Desktop\ScreenShots for FixedErrors\SMSCountryApiVB.net-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.vbprojResolveAssemblyReference.cache
+C:\Users\navneet\Desktop\ScreenShots for FixedErrors\SMSCountryApiVB.net-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3._5VB.Resources.resources
+C:\Users\navneet\Desktop\ScreenShots for FixedErrors\SMSCountryApiVB.net-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.vbproj.GenerateResource.Cache
+C:\Users\navneet\Desktop\ScreenShots for FixedErrors\SMSCountryApiVB.net-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.dll
+C:\Users\navneet\Desktop\ScreenShots for FixedErrors\SMSCountryApiVB.net-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.xml
+C:\Users\navneet\Desktop\ScreenShots for FixedErrors\SMSCountryApiVB.net-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.pdb
+D:\Navneet Projects\Sugandha\23Nov2016\New folder\NewSMSCountryAPiVb-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.dll
+D:\Navneet Projects\Sugandha\23Nov2016\New folder\NewSMSCountryAPiVb-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.pdb
+D:\Navneet Projects\Sugandha\23Nov2016\New folder\NewSMSCountryAPiVb-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.xml
+D:\Navneet Projects\Sugandha\23Nov2016\New folder\NewSMSCountryAPiVb-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\Newtonsoft.Json.dll
+D:\Navneet Projects\Sugandha\23Nov2016\New folder\NewSMSCountryAPiVb-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\bin\Debug\Newtonsoft.Json.xml
+D:\Navneet Projects\Sugandha\23Nov2016\New folder\NewSMSCountryAPiVb-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.vbprojResolveAssemblyReference.cache
+D:\Navneet Projects\Sugandha\23Nov2016\New folder\NewSMSCountryAPiVb-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3._5VB.Resources.resources
+D:\Navneet Projects\Sugandha\23Nov2016\New folder\NewSMSCountryAPiVb-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.vbproj.GenerateResource.Cache
+D:\Navneet Projects\Sugandha\23Nov2016\New folder\NewSMSCountryAPiVb-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.dll
+D:\Navneet Projects\Sugandha\23Nov2016\New folder\NewSMSCountryAPiVb-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.xml
+D:\Navneet Projects\Sugandha\23Nov2016\New folder\NewSMSCountryAPiVb-master\SMSCountryAPI3.5VB\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.pdb
+D:\Navneet Projects\Sugandha\28thNov2016\APISMSCountryVB-master\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.dll
+D:\Navneet Projects\Sugandha\28thNov2016\APISMSCountryVB-master\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.pdb
+D:\Navneet Projects\Sugandha\28thNov2016\APISMSCountryVB-master\SMSCountryAPI3.5VB\bin\Debug\SMSCountryAPI3.5VB.xml
+D:\Navneet Projects\Sugandha\28thNov2016\APISMSCountryVB-master\SMSCountryAPI3.5VB\bin\Debug\Newtonsoft.Json.dll
+D:\Navneet Projects\Sugandha\28thNov2016\APISMSCountryVB-master\SMSCountryAPI3.5VB\bin\Debug\Newtonsoft.Json.xml
+D:\Navneet Projects\Sugandha\28thNov2016\APISMSCountryVB-master\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.vbprojResolveAssemblyReference.cache
+D:\Navneet Projects\Sugandha\28thNov2016\APISMSCountryVB-master\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3._5VB.Resources.resources
+D:\Navneet Projects\Sugandha\28thNov2016\APISMSCountryVB-master\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.vbproj.GenerateResource.Cache
+D:\Navneet Projects\Sugandha\28thNov2016\APISMSCountryVB-master\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.dll
+D:\Navneet Projects\Sugandha\28thNov2016\APISMSCountryVB-master\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.xml
+D:\Navneet Projects\Sugandha\28thNov2016\APISMSCountryVB-master\SMSCountryAPI3.5VB\obj\Debug\SMSCountryAPI3.5VB.pdb
